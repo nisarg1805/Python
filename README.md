@@ -3,8 +3,6 @@
 
 Object shape recognition with circle fitting
 
-author: Atsushi Sakai (@Atsushi_twi)
-
 """
 
 import matplotlib.pyplot as plt
